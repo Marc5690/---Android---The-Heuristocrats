@@ -1,4 +1,4 @@
-# ---Android--- The Heuristocrats
+# The Heuristocrats
 
 This is a project created for University College Dublin's Computer Science (Negotiated Learning) MSc course for the academic year beginning in 2016 under the module "Practical Android Programming".
 
